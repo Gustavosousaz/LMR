@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Gustavosousaz" width="250" />
+<img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Gustavosousaz" width="450" />
 
 # _**LMR-DEVNOT**_
 <p align="center">
