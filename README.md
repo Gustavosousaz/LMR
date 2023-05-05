@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Gustavosousaz" width="450" />
+<img src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_700/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" alt="Gustavosousaz" width="450" />
 
 # _**LMR-DEVNOT**_
 <p align="center">
