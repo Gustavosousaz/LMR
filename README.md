@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/1322/1322053.png" alt="Gustavosousaz" width="150" />
+<img src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_700/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" alt="Gustavosousaz" width="150" />
 
 # _**LMR-DEVNOT**_
 <p align="center">
